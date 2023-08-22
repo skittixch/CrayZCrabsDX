@@ -17,7 +17,7 @@ finally, run ```CrayzCrabsDX.gbsproj```
 
 ## Play the latest version
 
-[ccdx.ericbacus.com](https://ccdx.ericbacus.com)
+[CCDX - ericbacus.com](https://ericbacus.com/ccdx)
 
 todo: Set up github action to update the game site on repo push
 
