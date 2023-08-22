@@ -1,5 +1,5 @@
 # CrayZCrabs DX
-CrayZCrabs DX, Only On GameBoy.
+Only On GameBoy.
 
 ## Installation
 make a new folder where you'll want your CrayZCrabs game project to live, then in your terminal or cmd prompt, enter...
