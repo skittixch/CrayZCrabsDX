@@ -5,7 +5,7 @@ CrayZCrabs DX, Only On GameBoy.
 make a new folder where you'll want your CrayZCrabs game project to live, then in your terminal or cmd prompt, enter...
 
 `bash
-git clone https://github.com/skittixch/CrayZDX.git
+git clone https://github.com/skittixch/CrayZCrabsDX.git
 `
 
 Next, Download [GB Studio](https://github.com/chrismaltby/gb-studio#installation "A low/no-code Gameboy game creator ")
