@@ -1,6 +1,8 @@
 # CrayZCrabs DX
 Only On GameBoy.
 
+![crayby1](https://github.com/skittixch/CrayZCrabsDX/assets/762694/d556f6fd-6067-4fde-bd6f-64a77093969e)
+
 ## Installation
 make a new folder where you'll want your CrayZCrabs game project to live, then in your terminal or cmd prompt, enter...
 
