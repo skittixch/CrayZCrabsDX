@@ -2270,7 +2270,7 @@
         "worldScrollX": 0,
         "worldScrollY": 173,
         "zoom": 183.3333282470703,
-        "customColorsEnabled": false,
+        "customColorsEnabled": true,
         "sgbEnabled": false,
         "customHead": "",
         "defaultBackgroundPaletteIds": [
@@ -2278,7 +2278,7 @@
             "default-bg-2",
             "default-bg-3",
             "default-bg-4",
-            "default-bg-5",
+            "dmg",
             "default-bg-6",
             "dmg",
             "default-ui"
